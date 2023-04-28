@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin-top: 200px;
+}
+.btn {
+  margin: 10px;
+  color: white;
+  background-color: black;
+}
